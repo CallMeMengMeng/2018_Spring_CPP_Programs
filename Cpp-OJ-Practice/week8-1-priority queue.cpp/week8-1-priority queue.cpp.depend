@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525134771 source:e:\programs\c++\cpp-oj-practice\week8-1-priority queue.cpp\main.cpp
+	<iostream>
+	<set>
+	<iterator>
+
